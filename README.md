@@ -241,3 +241,5 @@ If you're willing to try preview versions of Blazorise all you need to do is to 
 ```
 
 Now you will be able to get preview versions of Blazorise with the latest changes and bug fixes.
+
+test
